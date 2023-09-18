@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACC Auto Fuel", "ACC Auto Fuel\ACC Auto Fuel.csproj", "{D595C73F-0450-43E9-A94A-83EBC335047F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D595C73F-0450-43E9-A94A-83EBC335047F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D595C73F-0450-43E9-A94A-83EBC335047F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D595C73F-0450-43E9-A94A-83EBC335047F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D595C73F-0450-43E9-A94A-83EBC335047F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A94A2826-E0D5-4444-A19F-84FDEB9379F4}
+	EndGlobalSection
+EndGlobal
