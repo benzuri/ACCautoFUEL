@@ -5,4 +5,4 @@ This program allows you to quickly calculate the amount of fuel you will need fo
 
 ## Screenshots
 
-![screenshot](https://github.com/benzuri/ACCautoFUEL/assets/17362611/2699ca55-842e-4a55-a71c-a286772f8196)
+![screenshot](/screenshot.jpg)
